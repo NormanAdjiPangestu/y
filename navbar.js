@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     const navbar = `
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <nav class="navbar navbar-expand navbar-dark bg-dark">
             <div class="container">
                 <a class="navbar-brand" href="index.html">Cakeit_Bengkulu</a>
                 <div class="collapse navbar-collapse">
